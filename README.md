@@ -3,7 +3,7 @@
 
 
 # Curso JAVA- Portafolio de evidencias
-¡Hola! En este portafolio encontrarás algunos retos importantes relacionados al curso de TECNOLOCHICAS en JAVA, en el cual se desarrollaron diversas 
+¡Hola👋🏻En este portafolio encontrarás algunos retos importantes relacionados al curso de TECNOLOCHICAS en JAVA, en el cual se desarrollaron diversas. 🦦
 
 
 ## 👾Sesión 1
